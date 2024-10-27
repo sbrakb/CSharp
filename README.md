@@ -1,6 +1,6 @@
 # CSharp Projeleri
 
-Bu depo, C# dilindeki temel programlama kavramlarını öğrenmek isteyenler için bir dizi projeyi içermektedir. Projeler, adım adım ilerleyerek C# dilinin yapı taşlarını öğretmeyi amaçlamaktadır.
+Bu repo, C# dilindeki temel programlama kavramlarını öğrenmek isteyenler için bir dizi projeyi içermektedir. Projeler, adım adım ilerleyerek C# dilinin yapı taşlarını öğretmeyi amaçlamaktadır.
 
 ## 📍 01_MainSubjects
 
